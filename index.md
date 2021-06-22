@@ -1,7 +1,5 @@
 <HTML>
 <HEAD>
-<TITLE>
-</TITLE>
 </HEAD>
 <BODY bgcolor="red candy">
  <FONT COLOR="Green"> <H1>  
